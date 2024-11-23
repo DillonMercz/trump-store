@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/trump-store/static/css/main.22e4724e.css",
+    "main.js": "/trump-store/static/js/main.d4ed64e5.js",
+    "static/js/597.07927364.chunk.js": "/trump-store/static/js/597.07927364.chunk.js",
+    "static/js/743.df6f4259.chunk.js": "/trump-store/static/js/743.df6f4259.chunk.js",
+    "static/js/263.7b303afa.chunk.js": "/trump-store/static/js/263.7b303afa.chunk.js",
+    "static/js/63.08aeae8a.chunk.js": "/trump-store/static/js/63.08aeae8a.chunk.js",
+    "static/js/375.6e29a914.chunk.js": "/trump-store/static/js/375.6e29a914.chunk.js",
+    "static/js/678.31803e79.chunk.js": "/trump-store/static/js/678.31803e79.chunk.js",
+    "static/js/282.d9a1a0c9.chunk.js": "/trump-store/static/js/282.d9a1a0c9.chunk.js",
+    "static/js/453.44e828e1.chunk.js": "/trump-store/static/js/453.44e828e1.chunk.js",
+    "static/js/601.390a86c7.chunk.js": "/trump-store/static/js/601.390a86c7.chunk.js",
+    "static/js/942.7925340e.chunk.js": "/trump-store/static/js/942.7925340e.chunk.js",
+    "static/js/145.9b0b42a7.chunk.js": "/trump-store/static/js/145.9b0b42a7.chunk.js",
+    "index.html": "/trump-store/index.html",
+    "main.22e4724e.css.map": "/trump-store/static/css/main.22e4724e.css.map",
+    "main.d4ed64e5.js.map": "/trump-store/static/js/main.d4ed64e5.js.map",
+    "597.07927364.chunk.js.map": "/trump-store/static/js/597.07927364.chunk.js.map",
+    "743.df6f4259.chunk.js.map": "/trump-store/static/js/743.df6f4259.chunk.js.map",
+    "263.7b303afa.chunk.js.map": "/trump-store/static/js/263.7b303afa.chunk.js.map",
+    "63.08aeae8a.chunk.js.map": "/trump-store/static/js/63.08aeae8a.chunk.js.map",
+    "375.6e29a914.chunk.js.map": "/trump-store/static/js/375.6e29a914.chunk.js.map",
+    "678.31803e79.chunk.js.map": "/trump-store/static/js/678.31803e79.chunk.js.map",
+    "282.d9a1a0c9.chunk.js.map": "/trump-store/static/js/282.d9a1a0c9.chunk.js.map",
+    "453.44e828e1.chunk.js.map": "/trump-store/static/js/453.44e828e1.chunk.js.map",
+    "601.390a86c7.chunk.js.map": "/trump-store/static/js/601.390a86c7.chunk.js.map",
+    "942.7925340e.chunk.js.map": "/trump-store/static/js/942.7925340e.chunk.js.map",
+    "145.9b0b42a7.chunk.js.map": "/trump-store/static/js/145.9b0b42a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22e4724e.css",
+    "static/js/main.d4ed64e5.js"
+  ]
+}
